@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34444" started-at="2023-03-01T16:09:14 IST" finished-at="2023-03-01T16:09:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34444" started-at="2023-03-01T16:09:14 IST" finished-at="2023-03-01T16:09:49 IST">
+      <class name="com.flipkartAutomation.Validation.FlipkartRunner">
+        <test-method status="PASS" signature="applicationOpen()[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="applicationOpen" is-config="true" duration-ms="8" started-at="2023-03-01T16:09:14 IST" finished-at="2023-03-01T16:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationOpen -->
+        <test-method status="PASS" signature="launchBrouser(org.testng.ITestContext)[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="launchBrouser" is-config="true" duration-ms="13598" started-at="2023-03-01T16:09:14 IST" finished-at="2023-03-01T16:09:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@320a8ebf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrouser -->
+        <test-method status="PASS" signature="login(java.lang.reflect.Method)[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="login" is-config="true" duration-ms="657" started-at="2023-03-01T16:09:28 IST" finished-at="2023-03-01T16:09:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkartAutomation.Validation.FlipkartRunner.flipkartValidation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="flipkartValidation()[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="flipkartValidation" duration-ms="18501" started-at="2023-03-01T16:09:29 IST" finished-at="2023-03-01T16:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartValidation -->
+        <test-method status="PASS" signature="stoprecording()[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="stoprecording" is-config="true" duration-ms="132" started-at="2023-03-01T16:09:47 IST" finished-at="2023-03-01T16:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stoprecording -->
+        <test-method status="PASS" signature="Report()[pri:0, instance:com.flipkartAutomation.Validation.FlipkartRunner@11dc3715]" name="Report" is-config="true" duration-ms="1484" started-at="2023-03-01T16:09:47 IST" finished-at="2023-03-01T16:09:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report -->
+      </class> <!-- com.flipkartAutomation.Validation.FlipkartRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
